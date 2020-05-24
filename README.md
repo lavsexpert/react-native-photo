@@ -36,13 +36,13 @@
     - Зарегистрироваться на expo.io
     - Запустить сборку из командной строки и следовать инструкциям
     
-    Android:
+        Android:
     
-        expo build --android
+            expo build --android
         
-    iOS:
+        iOS:
     
-        expo build --ios
+            expo build --ios
         
     - Перейти по указанному адресу в https://expo.io/dashboard/
     - Дождаться завершения сборки на сервере Expo
