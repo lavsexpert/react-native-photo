@@ -4,12 +4,20 @@
   "expo": {
     "name": "photo",
     "slug": "expo-template-bare",
-    "version": "1.0.0",
+    "version": "0.1.7",
     "platforms": [
       "ios",
       "android",
       "web"
     ],
+    "ios": {
+        "bundleIdentifier": "club.plus1.photo",
+        "buildNumber": "0.1.7"
+    },
+    "android": {
+        "package": "club.plus1.photo",
+        "versionCode": 7
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
